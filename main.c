@@ -5,7 +5,7 @@
 
 int main() {
 
-	int A[] = {1,2,3,5,8,9,4,8};
+	int A[] = {14,7,3,12,9,11,6,2};
 	int i,ElmentsNo;
 	ElmentsNo = sizeof(A)/sizeof(A[0]);
 	MergeSort(A,ElmentsNo);
