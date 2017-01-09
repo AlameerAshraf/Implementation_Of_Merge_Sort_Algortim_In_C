@@ -3,7 +3,7 @@
 #include "functions.c"
 
 
-int main() {
+int main() {  
 
 	int A[] = {14,7,3,12,9,11,6,2};
 	int i,ElmentsNo;
@@ -15,6 +15,7 @@ int main() {
 	for(i = 0;i < ElmentsNo;i++)
 	{
 	    printf("%d \n",A[i]);
-	}
+	} 
+	// alameer ashraf hassan 
 	return 0;
 }
