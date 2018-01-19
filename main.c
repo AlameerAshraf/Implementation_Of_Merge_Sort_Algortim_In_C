@@ -17,5 +17,6 @@ int main() {
 	    printf("%d \n",A[i]);
 	} 
 	// alameer ashraf hassan 
+	// alameer ashraf hassan 
 	return 0;
 }
